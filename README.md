@@ -72,4 +72,3 @@ This bot is for educational purposes only. Use at your own risk and ensure compl
 ## 📜 License
 
 MIT License - feel free to use and modify for your own purposes.
-# KiteAi
